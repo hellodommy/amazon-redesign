@@ -29,7 +29,8 @@ You do not have to submit any additional wireframes/screens/prototype. If you ch
 - A folder with your all your .html/.css/.js files, in working order.
 - [PDF or Word] A short write-up with the following information:
   - What your website is designed for (can be the same explanation as the last assignment)
-  - List the screens from the last assignment that were chosen to be displayed ○ List changes in design (if any)
+  - List the screens from the last assignment that were chosen to be displayed
+  - List changes in design (if any)
   - [Bonus] If you completed a bonus task, which task you completed and how.
   - [Optional] Any interesting aspects you would like to highlight
    
