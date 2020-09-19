@@ -16,49 +16,47 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-lg navbar-light text-dark" style="background-color: #FF9900">
-        
-        <a class="navbar-brand" href="#">
-            <img src="img/amazon.png" width="30" height="30" alt="" loading="lazy">
-        </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
-                <li class="nav-item dropdown m-2">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
-                        aria-haspopup="true" aria-expanded="false">
-                        Category
-                    </a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="#">Action</a>
-                        <a class="dropdown-item" href="#">Another action</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="#">Something else here</a>
-                    </div>
-                </li>
-                <li class="nav-item m-2">
-                    <label class="sr-only" for="inlineFormInputGroup">Search</label>
-                    <div class="input-group w-400">
-                        <div class="input-group-prepend">
-                            <div class="input-group-text"><img src="img/search-24px.svg"></div>
-                        </div>
-                        <input type="text" class="form-control" id="inlineFormInputGroup" placeholder="Username">
-                    </div>
-                </li>
-                <li class="nav-item m-2">
-                    Hello guest! Sign in.
-                </li>
-                <li class="nav-item m-2">
-                    <img src="img/shopping_cart-24px.svg" height="30">
-                </li>
-            </ul>
-        
+    <div class="d-flex bd-highlight justify-content-between p-1" style="background-color: #FF9900">
+        <div class="p-2">
+            <a class="navbar-brand" href="#">
+                <img src="img/amazon.png" width="30" height="30" alt="" loading="lazy">
+            </a>
         </div>
-    </nav>
+        <div class="p-2" id="dropdown">
+            <div class="nav-item dropdown has-megamenu">
+                <div class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">Category</div>
+                <div class="dropdown-menu megamenu">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm">
+                                One of three columns
+                            </div>
+                            <div class="col-sm">
+                                One of three columns
+                            </div>
+                            <div class="col-sm">
+                                One of three columns
+                            </div>
+                            <div class="col-sm">
+                                One of three columns
+                            </div>
+                        </div>
+                    </div>
+                </div> <!-- dropdown-mega-menu.// -->
+            </div>
+        </div>
+        <div class="mr-auto p-2" id="search-bar">
+            <div class="input-group mb-3">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" id="basic-addon1"><img src="img/search-24px.svg"></span>
+                </div>
+                <input type="text" class="form-control" placeholder="Search" aria-label="Search"
+                    aria-describedby="basic-addon1">
+            </div>
+        </div>
+        <div class="p-2 m-1">Hello guest! Sign in.</div>
+        <div class="p-2 m-1"><img src="img/shopping_cart-24px.svg" height="30"></div>
+    </div>
     <ul class="nav bg-dark" style="color: #FF9900;">
         <li class="nav-item m-2">
             <img src="img/location_on-24px.svg" width="24" height="24"> Delivering to Singapore 119244
