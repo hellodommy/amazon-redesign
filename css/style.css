@@ -60,3 +60,8 @@ body {
 	width: 96px;
 	height: 96px;
 }
+
+.secondary-images img {
+	width: 64px;
+	height: 64px;
+}
