@@ -33,13 +33,18 @@ body {
   }
 }
 
-.underline-fill {
+.underline-orange {
 	border: 2px solid #FF9900;
 	width: 50%;
 }
 
 .underline-dummy {
 	border: 2px solid transparent;
+}
+
+.underline-black {
+	display: block;
+	border: 1px solid #4F4F4F;
 }
 
 .img-category {
