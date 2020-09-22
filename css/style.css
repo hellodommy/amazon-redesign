@@ -70,3 +70,7 @@ body {
 	width: 64px;
 	height: 64px;
 }
+
+.small-text {
+	font-size: 12px;
+}
