@@ -1,5 +1,6 @@
 body {
-    font-family: 'Kumbh Sans', sans-serif;
+	font-family: 'Kumbh Sans', sans-serif;
+	color: #333333;
 }
 
 @media all and (min-width: 992px) {
