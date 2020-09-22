@@ -55,3 +55,8 @@ body {
 	font-weight: 100;
 	color: #4F4F4F;
 }
+
+#suggested-product img {
+	width: 96px;
+	height: 96px;
+}
