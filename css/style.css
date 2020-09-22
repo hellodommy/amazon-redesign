@@ -17,3 +17,8 @@ body {
 .underline-dummy {
 	border: 2px solid transparent;
 }
+
+.img-category {
+	width: 128px;
+	border-radius: 50%;
+}
