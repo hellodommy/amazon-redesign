@@ -46,3 +46,12 @@ body {
 	width: 128px;
 	border-radius: 50%;
 }
+
+.star-rating img {
+	width: 16px;
+}
+
+.secondary-text {
+	font-weight: 100;
+	color: #4F4F4F;
+}
