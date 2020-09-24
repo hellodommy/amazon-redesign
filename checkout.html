@@ -273,8 +273,10 @@
                             <div class="small-text"><a class="">Edit</a> | <a class="">Remove</a></div>
                         </div>
                     </div>
-                    <div class="col">
-                        Arrow
+                    <div class="col my-auto">
+                        <button type="button" class="btn btn-secondary" data-toggle="tooltip" data-placement="bottom" title="Tooltip on bottom">
+                            Tooltip on bottom
+                        </button>
                     </div>
                 </div>
             </div>
@@ -405,6 +407,11 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
         integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
         crossorigin="anonymous"></script>
+    <script>
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+    </script>
 </body>
 
 </html>
