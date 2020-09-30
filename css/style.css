@@ -79,3 +79,18 @@ body {
 #payment img {
 	height: 36px;
 }
+
+.tab-option {
+	color: #333333;
+	text-decoration: none;
+}
+
+.tab-option:hover {
+	color: #333333;
+	text-decoration: none;
+}
+
+.tab-active {
+	border-bottom: 5px solid #FF9900;
+	font-weight: 1000;
+}

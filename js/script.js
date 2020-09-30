@@ -1,8 +1,8 @@
 $(document).ready(function() {
 
     $(".tab-option").click(function() {
-        $(".tab-option").removeClass("active");
-        $(this).addClass("active");
+        $(".tab-option").removeClass("tab-active");
+        $(this).addClass("tab-active");
     });
 
 })
