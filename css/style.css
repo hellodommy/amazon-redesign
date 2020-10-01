@@ -94,3 +94,14 @@ body {
 	border-bottom: 5px solid #FF9900;
 	font-weight: 1000;
 }
+
+/*
+.modal {
+	position: absolute;
+	top: 200px;
+	right: 100px;
+	bottom: 0;
+	left: 0;
+	z-index: 10040;
+}
+*/
