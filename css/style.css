@@ -67,6 +67,12 @@ body {
 	height: 96px;
 }
 
+#all-cart-product img {
+	width: 96px;
+	height: 96px;
+}
+
+
 .secondary-images img {
 	width: 64px;
 	height: 64px;
@@ -86,6 +92,7 @@ body {
 }
 
 .tab-option:hover {
+	cursor: pointer;
 	color: #333333;
 	text-decoration: none;
 }
