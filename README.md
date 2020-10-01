@@ -1,8 +1,10 @@
-# CS3240 Interaction Design (2020/2021 Semester 1) Assignment 3
-
 🌟 [Bootstrap Wireframe](files/balsamiq_wireframes.pdf)
+
 🌟 [Figma Mockup](https://www.figma.com/file/TCeDYASrWWNN30PiyGJIVb/Amazon?node-id=0%3A1)
+
 🌟 [Figma Presentation](https://www.figma.com/proto/TCeDYASrWWNN30PiyGJIVb/Amazon?node-id=4%3A3&scaling=min-zoom)
+
+# CS3240 Interaction Design (2020/2021 Semester 1) Assignment 3
 
 - [CS3240 Interaction Design (2020/2021 Semester 1) Assignment 3](#cs3240-interaction-design-20202021-semester-1-assignment-3)
   - [Tasks](#tasks)
