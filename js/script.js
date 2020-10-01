@@ -5,4 +5,6 @@ $(document).ready(function() {
         $(this).addClass("tab-active");
     });
 
+    $('[data-toggle="tooltip"]').tooltip();
+
 })
