@@ -1,5 +1,9 @@
 # CS3240 Interaction Design (2020/2021 Semester 1) Assignment 3
 
+🌟 [Bootstrap Wireframe](files/balsamiq_wireframes.pdf)
+🌟 [Figma Mockup](https://www.figma.com/file/TCeDYASrWWNN30PiyGJIVb/Amazon?node-id=0%3A1)
+🌟 [Figma Presentation](https://www.figma.com/proto/TCeDYASrWWNN30PiyGJIVb/Amazon?node-id=4%3A3&scaling=min-zoom)
+
 - [CS3240 Interaction Design (2020/2021 Semester 1) Assignment 3](#cs3240-interaction-design-20202021-semester-1-assignment-3)
   - [Tasks](#tasks)
   - [Deliverables](#deliverables)
@@ -26,7 +30,7 @@ You can create your working website based on a topic within the range of Assignm
 You do not have to submit any additional wireframes/screens/prototype. If you chose to re- design a site (option 2 of Assignment 1), you should include in your write-up what improvements you have made in the re-design and why you chose that site.
 
 ## Deliverables
-- A folder with your all your .html/.css/.js files, in working order.
+- A folder with your all your `.html`/`.css`/`.js` files, in working order.
 - [PDF or Word] A short write-up with the following information:
   - What your website is designed for (can be the same explanation as the last assignment)
   - List the screens from the last assignment that were chosen to be displayed
@@ -60,6 +64,6 @@ You ONLY need to complete ONE of the following for the bonus marks.
   
 ## Submission
 
-Put all deliverables in a ZIP file and name your ZIP file **your-student-number_lab-group_assign3.zip**. For example, A0123456X_B20_assign3.zip. All letters in your student number must be capitalized.
+Put all deliverables in a ZIP file and name your ZIP file `your-student-number_lab-group_assign3.zip`. For example, `A0123456X_B20_assign3.zip`. All letters in your student number must be capitalized.
 
 Submit your ZIP file to the Assignment 3 Submission folder in LumiNUS Files. Before the submission deadline, you may upload your ZIP file as many times as you want to the correct folder. We will take only your latest submission. If you have uploaded a new version to the folder, you must delete the older versions.
