@@ -100,3 +100,15 @@ body {
 	border-bottom: 5px solid #FF9900;
 	font-weight: 1000;
 }
+
+#grey-shirt:hover {
+	cursor: pointer;
+}
+
+#yellow-shirt:hover {
+	cursor: pointer;
+}
+
+#pink-shirt:hover {
+	cursor: pointer;
+}

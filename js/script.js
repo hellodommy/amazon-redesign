@@ -6,4 +6,17 @@ $(document).ready(function() {
     });
 
     $('[data-toggle="tooltip"]').tooltip();
+
+    $("#grey-shirt").click(() => {
+        $("#current-image").html('<img src="img/products/grey-shirt.png" width="512">');
+    });
+
+    $("#yellow-shirt").click(() => {
+      $("#current-image").html('<img src="img/products/Yellow-shirt.jpeg" width="512">');
+    });
+
+    $("#pink-shirt").click(() => {
+        $("#current-image").html('<img src="img/products/Bluepink-shirt.jpg" width="512">');
+    });
+
 })
