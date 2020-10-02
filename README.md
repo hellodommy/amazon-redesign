@@ -1,3 +1,7 @@
+For this assignment, I'm redesigning Amazon's landing, product and checkout pages.
+
+These designs are best viewed on desktop! 😊
+
 🌟 [Bootstrap Wireframe](files/balsamiq_wireframes.pdf)
 
 🌟 [Figma Mockup](https://www.figma.com/file/TCeDYASrWWNN30PiyGJIVb/Amazon?node-id=0%3A1)
@@ -14,7 +18,7 @@
     - [Bonus (1%)](#bonus-1)
   - [Submission](#submission)
 
-**Submission Deadline: 28th Sep, Week 7, Monday 10am**
+**Submission Deadline: 5th Oct, Week 8, Monday 10am**
 
 ## Tasks
 
