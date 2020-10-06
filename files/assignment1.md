@@ -1,5 +1,14 @@
 # CS3240 Interaction Design (2020/2021 Semester 1) Lab Assignment 1
 
+- [CS3240 Interaction Design (2020/2021 Semester 1) Lab Assignment 1](#cs3240-interaction-design-20202021-semester-1-lab-assignment-1)
+  - [Tasks](#tasks)
+    - [Criteria](#criteria)
+  - [Deliverables](#deliverables)
+  - [Grading](#grading)
+    - [Main (5%)](#main-5)
+    - [Bonus (1%)](#bonus-1)
+  - [Submission](#submission)
+  
 Release Date: ​24th Aug, Week 3 Mon
 
 Submission Deadline: ​7th Sep, Week 5 Mon ​0800
