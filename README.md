@@ -15,3 +15,5 @@ These designs are best fit for desktop.
 **[Assignment 3](files/assignment3.md)**
 
 🌟 [Website](https://hellodommy.github.io/amazon-redesign/)
+
+![](img/screenshot.png)

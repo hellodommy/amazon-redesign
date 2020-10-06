@@ -1,5 +1,13 @@
 # CS3240 Interaction Design (2020/2021 Semester 1) Assignment 2
 
+- [CS3240 Interaction Design (2020/2021 Semester 1) Assignment 2](#cs3240-interaction-design-20202021-semester-1-assignment-2)
+  - [Tasks](#tasks)
+  - [Deliverables](#deliverables)
+  - [Grading](#grading)
+    - [Main (5%)](#main-5)
+    - [Bonus (1%)](#bonus-1)
+  - [Submission](#submission)
+
 Submission Deadline: 14th Sep, Week 6, Mon 1000
 
 ## Tasks
