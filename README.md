@@ -2,7 +2,11 @@ For this assignment, I'm redesigning Amazon's landing, product and checkout page
 
 These designs are best viewed on desktop! 😊
 
+[Assignment 1](files/assignment1.md)
+
 🌟 [Bootstrap Wireframe](files/balsamiq_wireframes.pdf)
+
+[Assignment 2](files/assignment2.md)
 
 🌟 [Figma Mockup](https://www.figma.com/file/TCeDYASrWWNN30PiyGJIVb/Amazon?node-id=0%3A1)
 
