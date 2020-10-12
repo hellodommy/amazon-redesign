@@ -4,7 +4,7 @@ These designs are best fit for desktop.
 
 **[Assignment 1](files/assignment1.md)**
 
-🌟 [Bootstrap Wireframe](files/balsamiq_wireframes.pdf)
+🌟 [Balsamiq Wireframe](files/balsamiq_wireframes.pdf)
 
 **[Assignment 2](files/assignment2.md)**
 
